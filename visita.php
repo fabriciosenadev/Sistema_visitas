@@ -72,7 +72,7 @@
                 <h3>Comentários sobre <?php echo $visitado;?></h3>
             </div>
             <div> 
-                <a href="#" class='btn btn-primary'>Deslogar</a>
+                <a href="logout.php" class='btn btn-primary'>Deslogar</a>
             </div>
         </div>
         <hr>    
